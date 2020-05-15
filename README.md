@@ -13,5 +13,5 @@ This project contains a Mathematica notebook, which contains sample code for a t
 ![](sansa-expressions.png)
 ![](person1-expressions.png)
 
-# Animated Outputs for a person (psst he doesn't like cold weather) [based on temperature data for city of Chicago ]
+# Animated Outputs for a person (psst he doesn't like cold weather) [based on temperature data for Chicago ]
 ![](chernoff-faces-animation.gif)
